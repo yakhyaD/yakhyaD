@@ -1,5 +1,8 @@
 ### Hi there. I'm Yakhya Diome 👋
 
 ### WAKATIME
-[![wakatime-stats](https://github.com/yakhyaD/yakhyaD/blob/master/images/stat.svg)](https://wakatime.com/@sanixdarker)
+<img
+  src="https://github.com/yakhyaD/yakhyaD/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
