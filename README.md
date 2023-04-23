@@ -4,15 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 20 April 2023
+From: 15 April 2023 - To: 21 April 2023
 
-Total Time: 10 hrs 21 mins
+Total Time: 7 hrs 8 mins
 
-TypeScript   8 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>-----   79.10 %
-CSS          48 mins         >>-----------------------   07.73 %
-Bash         17 mins         >------------------------   02.75 %
-Python       15 mins         >------------------------   02.49 %
-Other        14 mins         >------------------------   02.35 %
+TypeScript   5 hrs 29 mins   >>>>>>>>>>>>>>>>>>>------   76.93 %
+CSS          43 mins         >>>----------------------   10.23 %
+Python       15 mins         >------------------------   03.62 %
+C            11 mins         >------------------------   02.79 %
+Go           10 mins         >------------------------   02.40 %
+Other        6 mins          -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
