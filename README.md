@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 15 August 2024
+From: 10 August 2024 - To: 16 August 2024
 
-Total Time: 4 hrs 12 mins
+Total Time: 4 hrs 44 mins
 
-TypeScript   3 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>----   84.31 %
-Bash         28 mins         >>>----------------------   11.48 %
-Other        10 mins         >------------------------   04.10 %
-JavaScript   0 secs          -------------------------   00.11 %
+TypeScript   4 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>----   85.58 %
+Bash         30 mins         >>>----------------------   10.69 %
+Other        10 mins         >------------------------   03.63 %
+JavaScript   0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
